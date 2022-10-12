@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rtassicker
 - 👀 I’m interested in football, games, history
-- 🌱 I’m currently learning R & PowerQuery M
-- 💞️ I’m looking to collaborate on basic learning projects in data science
+- 🌱 I’m currently learning R, Python & PowerQuery M
+- 💞️ I’m looking to collaborate on learning projects in data science & sports analytics
 - 📫 How to reach me: on twitter @rtassicker
 
 <!---
